@@ -56,14 +56,11 @@
 			<th>Docker</th>
 			<th>AWS</th>
 			<th>GCP</th>
-			<th>Redis</th>
-			<th>Github</th>
 		</tr>
 		<tr>
 			<td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="100"/></td>
 			<td><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" height="100"/></td>
 			<td><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" height="100"/></td>
-			<td><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" height="100"/></td>
 						<td><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="100"/></td>
 	</tr>
 </table>
