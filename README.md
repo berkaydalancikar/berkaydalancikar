@@ -28,7 +28,7 @@
 		<tr>
 			<td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="100"/></td>
 			<td><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="100"/></td>
-			<td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" height="100"/></td>
+			<td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" height="100"/></td>
 			<td><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="100"/></td>
 			<td><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" height="100"/></td>
 	</tr>
