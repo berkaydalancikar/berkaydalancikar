@@ -66,6 +66,7 @@
 
 <table>
 		<tr>
+			<th>Typescript</th>
 			<th>Javascript</th>
 			<th>Java</th>
 			<th>Pyhton</th>
@@ -74,6 +75,7 @@
 			<th>C</th>
 		</tr>
 		<tr>
+			<td><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="100"</td>
 			<td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="100"/></td>
 			<td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="100"/></td>
 			<td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="100"/></td>
